@@ -1,9 +1,11 @@
 {
     "name": "dniccum/nova-state-select",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova field that is a select dropdown pre-populated with all of the states within the US.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "state",
+        "select"
     ],
     "license": "MIT",
     "require": {
@@ -11,13 +13,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Dniccum\\NovaStateSelect\\": "src/"
+            "Dniccum\\StateSelect\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Dniccum\\NovaStateSelect\\FieldServiceProvider"
+                "Dniccum\\StateSelect\\FieldServiceProvider"
             ]
         }
     },
