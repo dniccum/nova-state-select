@@ -1,5 +1,9 @@
 # Laravel Nova State/Territory Select Field
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/dniccum/nova-state-select.svg?style=flat-square&color=#0E7FC0)](https://packagist.org/packages/dniccum/nova-state-select)
+[![License](https://img.shields.io/packagist/l/dniccum/nova-state-select.svg?style=flat-square)](https://packagist.org/packages/dniccum/nova-state-select)
+[![Total Downloads](https://img.shields.io/packagist/dt/dniccum/nova-state-select.svg?style=flat-square)](https://packagist.org/packages/dniccum/nova-state-select)
+
 ![Image 1](https://github.com/dniccum/nova-state-select/raw/master/screenshots/screenshot-1.png "State Select input")
 
 ## Features
