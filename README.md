@@ -1,5 +1,7 @@
 # Laravel Nova State/Territory Select Field
 
+![Image 1](./screenshots/screenshot-1.png "State Select input")
+
 ## Features
 
 * Pre-populates a select dropdown field with all of the states in the United States 
