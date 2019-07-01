@@ -16,7 +16,7 @@
 
 ## Installation
 
-To install this tool, use the installation code below:
+To install this field, use the installation code below:
 
 ```
 composer require dniccum/nova-state-select
