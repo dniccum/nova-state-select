@@ -1,6 +1,6 @@
 # Laravel Nova State/Territory Select Field
 
-![Image 1](./screenshots/screenshot-1.png "State Select input")
+![Image 1](https://github.com/dniccum/nova-state-select/raw/master/screenshots/screenshot-1.png "State Select input")
 
 ## Features
 
@@ -15,7 +15,7 @@
 To install this tool, use the installation code below:
 
 ```
-composer require dniccum/state-select
+composer require dniccum/nova-state-select
 ```
 
 ## Code
